@@ -1,6 +1,7 @@
 # Sum Widget Exercise
 
----
+Multi Component Widget Code Challange
+[Sample app in production](https://sum-widget.web.app/).
 
 ## Project Purpose:
 
